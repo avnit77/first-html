@@ -1,5 +1,5 @@
 function showAlert() {
-    alert('youclicked the button');
+    alert('Why would you click a button when you have no idea what it does? You are so hacked.');
 }
 
 function logHello() {
